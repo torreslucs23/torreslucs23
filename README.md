@@ -8,6 +8,9 @@
 
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lucas-js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="lucas-cpp" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
+  <img align="center" alt="lucas-react" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt="lucas-tensorflow" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg">
 
  
   
