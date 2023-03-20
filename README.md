@@ -1,4 +1,4 @@
-## Hello, i am Lucas Torres, Computer Engineering!!!
+## Hello, i am Lucas Torres, Student of Computer Science!!!
 <div align="center">
   <a href="https://github.com/torreslucs23">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=torreslucs23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
